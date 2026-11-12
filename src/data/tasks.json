@@ -1,0 +1,65 @@
+{
+  "nextId": 8,
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Backend altyapısını kur",
+      "description": "Node.js ve Express projesini oluştur, klasör yapısını hazırla.",
+      "status": "completed",
+      "priority": "high",
+      "assignee": "musa",
+      "createdAt": "2026-11-02T09:00:00.000Z",
+      "updatedAt": "2026-11-03T14:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Görev CRUD endpoint'lerini yaz",
+      "description": "Ekleme, listeleme, detay, güncelleme ve silme uçları.",
+      "status": "in-progress",
+      "priority": "high",
+      "assignee": "ayse",
+      "createdAt": "2026-11-03T10:15:00.000Z",
+      "updatedAt": "2026-11-04T08:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Logger middleware ekle",
+      "description": "Tüm isteklerin method, endpoint ve zaman damgasını kaydet.",
+      "status": "completed",
+      "priority": "medium",
+      "assignee": "musa",
+      "createdAt": "2026-11-04T11:00:00.000Z",
+      "updatedAt": "2026-11-04T16:45:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Postman koleksiyonunu hazırla",
+      "description": "Tüm endpoint'ler için örnek istekler ve testler.",
+      "status": "pending",
+      "priority": "medium",
+      "assignee": "ali",
+      "createdAt": "2026-11-05T09:30:00.000Z",
+      "updatedAt": "2026-11-05T09:30:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Backend dokümantasyonunu yaz",
+      "description": "README ve proje tanıtım dokümanı.",
+      "status": "pending",
+      "priority": "low",
+      "assignee": "ayse",
+      "createdAt": "2026-11-06T13:00:00.000Z",
+      "updatedAt": "2026-11-06T13:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Raporlama servislerini geliştir",
+      "description": "Tamamlanan, bekleyen ve genel özet raporları.",
+      "status": "in-progress",
+      "priority": "low",
+      "assignee": null,
+      "createdAt": "2026-11-07T15:20:00.000Z",
+      "updatedAt": "2026-11-07T15:20:00.000Z"
+    }
+  ]
+}
